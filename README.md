@@ -2,6 +2,10 @@
 
 A curated list of 100+ AI benchmarks across various domains including Agent Capabilities, Reasoning, Translation, Code Generation, Multimodal, and other AI domains. This repository automatically generates a searchable website at [aibenchmarks.net](https://aibenchmarks.net/) from the benchmark entries below.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the <a href="https://github.com/panilya/awesome-ai-benchmarks">upstream project</a>’s domain-organised benchmark catalogue and searchable-site workflow. Researchers can identify relevant tests for coding, reasoning, multimodal systems or specialised tasks before committing to expensive evaluation runs. The benefit is more focused experiment selection and reuse of existing benchmarks; coverage and scores must still be interpreted against each benchmark’s own protocol.</sub>
+<!-- impact-note:end -->
+
 ## 📋 Table of Contents
 
 - [📊 Statistics](#-statistics)
